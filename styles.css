@@ -30,3 +30,8 @@
 .cardContainer:hover .card {
   transform: translate(3rem, 7rem) rotate(15deg);
 }
+
+body {
+  display: flex;
+  justify-content: center;
+}
